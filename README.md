@@ -52,15 +52,15 @@
 * Body for the <strong>POST</strong> method to save a User in Google Cloud Spanner. For this method the body type is `raw` -> `json`.
 
 <code>{
-    "userId" : 1,
-	"name" : "Test Name",
-	"mobileNo" : "1234567890"
+    	"userId" : 1,
+		"name" : "Test Name",
+		"mobileNo" : "1234567890"
 }</code>
 
 * Body for the <strong>PUT</strong> method to upload an existing User record in Google Cloud Spanner
 
 <code>{
-    "userId" : 1,
-	"name" : "Test Name",
-	"mobileNo" : "1234567891"
+    	"userId" : 1,
+		"name" : "Test Name",
+		"mobileNo" : "1234567891"
 }</code>
