@@ -1,6 +1,6 @@
 # spring-cloud-gcp-spanner-masterclass
 
-## A good understanding of the usage of Google CLoud Spanner with Spring Boot
+## A good understanding of the usage of Google Cloud Spanner with Spring Boot
 
 ### Software Required
 * [Java 1.8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
